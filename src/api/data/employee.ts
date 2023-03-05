@@ -1,7 +1,7 @@
 export const employees = [
     {
         "id": 1,
-        "image": "https://i.pravatar.cc/300",
+        "image": "https://faces-img.xcdn.link/image-lorem-face-5178.jpg",
         "fullName": "Shay Noel",
         "phone": "1-871-374-8121",
         "email": "magna.lorem@icloud.net",
@@ -9,7 +9,7 @@ export const employees = [
     },
     {
         "id": 2,
-        "image": "https://i.pravatar.cc/300",
+        "image": "https://faces-img.xcdn.link/image-lorem-face-6637.jpg",
         "fullName": "Leonard Nieves",
         "phone": "(412) 382-8166",
         "email": "non@aol.net",
@@ -17,7 +17,7 @@ export const employees = [
     },
     {
         "id": 3,
-        "image": "https://i.pravatar.cc/300",
+        "image": "https://faces-img.xcdn.link/image-lorem-face-4298.jpg",
         "fullName": "Cassidy Wheeler",
         "phone": "(541) 738-4194",
         "email": "imperdiet.ullamcorper.duis@google.org",
@@ -25,7 +25,7 @@ export const employees = [
     },
     {
         "id": 4,
-        "image": "https://i.pravatar.cc/300",
+        "image": "https://faces-img.xcdn.link/image-lorem-face-6117.jpg",
         "fullName": "Nichole Branch",
         "phone": "(811) 582-4745",
         "email": "sem.molestie.sodales@hotmail.couk",
@@ -33,15 +33,15 @@ export const employees = [
     },
     {
         "id": 5,
-        "image": "https://i.pravatar.cc/300",
-        "fullName": "Jemima Howe",
+        "image": "https://faces-img.xcdn.link/image-lorem-face-6472.jpg",
+        "fullName": "John Doe",
         "phone": "1-708-677-5643",
         "email": "posuere.cubilia.curae@outlook.org",
         "job": "Back-End Developer"
     },
     {
         "id": 6,
-        "image": "https://i.pravatar.cc/300",
+        "image": "https://faces-img.xcdn.link/image-lorem-face-3345.jpg",
         "fullName": "Suki Sullivan",
         "phone": "1-184-855-7612",
         "email": "nulla.aliquet.proin@icloud.ca",
