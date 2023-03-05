@@ -6,6 +6,7 @@ const typeDefs = `#graphql
 type Employee {
     id: ID!
     fullName: String
+    vote: Int
     image: String
     email: String
     phone: String
