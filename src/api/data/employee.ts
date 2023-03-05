@@ -4,7 +4,7 @@ export const employees = [
         "image": "https://faces-img.xcdn.link/image-lorem-face-5178.jpg",
         "fullName": "Shay Noel",
         "phone": "1-871-374-8121",
-        "email": "magna.lorem@icloud.net",
+        "email": "example@icloud.net",
         "job": "Back-End Developer"
     },
     {
@@ -12,7 +12,7 @@ export const employees = [
         "image": "https://faces-img.xcdn.link/image-lorem-face-6637.jpg",
         "fullName": "Leonard Nieves",
         "phone": "(412) 382-8166",
-        "email": "non@aol.net",
+        "email": "test@hotmail.net",
         "job": "Front-End Developer"
     },
     {
@@ -20,7 +20,7 @@ export const employees = [
         "image": "https://faces-img.xcdn.link/image-lorem-face-4298.jpg",
         "fullName": "Cassidy Wheeler",
         "phone": "(541) 738-4194",
-        "email": "imperdiet.ullamcorper.duis@google.org",
+        "email": "test@example.org",
         "job": "Back-End Developer"
     },
     {
@@ -28,7 +28,7 @@ export const employees = [
         "image": "https://faces-img.xcdn.link/image-lorem-face-6117.jpg",
         "fullName": "Nichole Branch",
         "phone": "(811) 582-4745",
-        "email": "sem.molestie.sodales@hotmail.couk",
+        "email": "example@test.org",
         "job": "Front-End Developer"
     },
     {
@@ -36,7 +36,7 @@ export const employees = [
         "image": "https://faces-img.xcdn.link/image-lorem-face-6472.jpg",
         "fullName": "John Doe",
         "phone": "1-708-677-5643",
-        "email": "posuere.cubilia.curae@outlook.org",
+        "email": "example@outlook.org",
         "job": "Back-End Developer"
     },
     {
@@ -44,7 +44,7 @@ export const employees = [
         "image": "https://faces-img.xcdn.link/image-lorem-face-3345.jpg",
         "fullName": "Suki Sullivan",
         "phone": "1-184-855-7612",
-        "email": "nulla.aliquet.proin@icloud.ca",
+        "email": "example@gmail.com",
         "job": "Back-End Developer"
     }
 ];
